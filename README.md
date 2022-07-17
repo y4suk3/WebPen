@@ -38,3 +38,9 @@ XSS には、以下 3つのタイプがある。
 + 反射型 XSS（reflected XSS）
 + 持続型 XSS（stored XSS）
 + DOM base XSS
+
+
+## スキルアップ方法
+* 「安全なウェブサイトの作り方」を読む
+* hackerone の公開されているものを読む
+* 安全な Web アプリケーションの作り方を読む
