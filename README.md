@@ -44,3 +44,17 @@ XSS には、以下 3つのタイプがある。
 * 「安全なウェブサイトの作り方」を読む
 * hackerone の公開されているものを読む
 * 安全な Web アプリケーションの作り方を読む
+
+## 一覧
++ XXE
++ XSS
++ CSRF
++ CSS Injection
++ SQL Injection
++ RCE
++ SSTI
++ SSRF
++ Server-Side Includes Injection
++ Directory Traversal
++ HTTP request smuggling
++ INsecure Deserialization
